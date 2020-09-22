@@ -1,6 +1,6 @@
 # CoronaBot
 
-CoronaBot is a Discord bot writen in Python that change the name of a VC with the case, deaths, recovered of Coronavirus of a country.
+CoronaBot is a Discord bot writen in Python that change the name of a VC with the case, deaths, recovered of Coronavirus of a country and others things about Covid-19 !.
 
 ## Installation
 
